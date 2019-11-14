@@ -167,12 +167,12 @@ while ($rw=mysqli_fetch_array($sql)) {
 <textarea  name="complaindetails" required="required" cols="10" rows="10" class="form-control" maxlength="2000"></textarea>
 </div>
 </div>
-<div class="form-group">
+<!-- <div class="form-group">
 <label class="col-sm-2 col-sm-2 control-label">Complaint Related Doc(if any) </label>
 <div class="col-sm-6">
 <input type="file" name="compfile" class="form-control" value="">
 </div>
-</div>
+</div> -->
 
 
 
